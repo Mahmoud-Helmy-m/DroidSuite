@@ -1,0 +1,84 @@
+name: Report a bug
+description: Something doesn't work as it should.
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting this. **Issues are public:** never post your pairing QR code, a pairing code, a PIN, or personal details.
+  - type: dropdown
+    id: area
+    attributes:
+      label: What were you using?
+      options:
+        - Installing DroidSuite
+        - Connecting or pairing
+        - Phone screen
+        - Typing or clipboard
+        - Files
+        - Installing apps or builds
+        - Debug over Wi-Fi
+        - AI agent skill
+        - Something else
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What did you do, what did you expect, and what happened instead?
+      placeholder: |
+        1. I clicked...
+        2. I expected...
+        3. Instead...
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: DroidSuite version
+      description: Run `droidsuite --version` on the computer.
+      placeholder: 1.0.0-beta.11
+    validations:
+      required: true
+  - type: input
+    id: phone
+    attributes:
+      label: Phone and Android version
+      description: Find these under Settings → About phone.
+      placeholder: Brand and model, Android version
+    validations:
+      required: true
+  - type: dropdown
+    id: computer
+    attributes:
+      label: Computer
+      options:
+        - Windows
+        - macOS
+        - Linux
+    validations:
+      required: true
+  - type: dropdown
+    id: network
+    attributes:
+      label: How are they connected?
+      options:
+        - Same Wi-Fi
+        - The computer's hotspot
+        - Computer on Ethernet, phone on Wi-Fi
+        - Not sure
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Output from `droidsuite debug doctor`, or logs
+      description: Check it first and remove any codes or personal details.
+      render: text
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots
+      description: Optional. Make sure no QR code or PIN is visible.

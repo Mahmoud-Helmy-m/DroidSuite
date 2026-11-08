@@ -1,0 +1,44 @@
+name: Share how it worked on your device
+description: Tried DroidSuite on a phone, computer or AI agent we haven't tested? Tell us, good or bad.
+title: "[Tested]: "
+labels: ["compatibility"]
+body:
+  - type: input
+    id: phone
+    attributes:
+      label: Phone and Android version
+      placeholder: Samsung Galaxy A54, Android 14
+  - type: input
+    id: computer
+    attributes:
+      label: Computer
+      placeholder: macOS 15, Apple silicon
+  - type: input
+    id: agent
+    attributes:
+      label: AI agent, if you used one
+      placeholder: Cursor
+  - type: input
+    id: version
+    attributes:
+      label: DroidSuite version
+      description: Run `droidsuite --version` on the computer.
+    validations:
+      required: true
+  - type: checkboxes
+    id: worked
+    attributes:
+      label: What worked?
+      options:
+        - label: Installing and pairing
+        - label: Phone screen
+        - label: Control (tap and swipe)
+        - label: Typing and clipboard
+        - label: Files both ways
+        - label: Installing apps
+        - label: Debug over Wi-Fi
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything that didn't work, or that you noticed?
+      description: Issues are public, so leave out any codes or personal details.

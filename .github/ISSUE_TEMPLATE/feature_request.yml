@@ -1,0 +1,25 @@
+name: Suggest a feature
+description: An idea that would make DroidSuite better.
+title: "[Idea]: "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What are you trying to do?
+      description: Tell us the problem first, then any solution you have in mind.
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like to happen?
+  - type: dropdown
+    id: who
+    attributes:
+      label: How do you use DroidSuite?
+      options:
+        - Everyday use
+        - Android development
+        - With an AI coding agent
+        - All of these

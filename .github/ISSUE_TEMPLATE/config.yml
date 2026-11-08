@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Troubleshooting guide
+    url: https://github.com/Mahmoud-Helmy-m/droidsuite/blob/main/docs/troubleshooting.md
+    about: Fixes for the most common problems.
+  - name: Report a security problem
+    url: https://github.com/Mahmoud-Helmy-m/droidsuite/security/advisories/new
+    about: Please report security problems privately.
