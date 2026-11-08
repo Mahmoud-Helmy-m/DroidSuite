@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.0-beta.12
+
+- The page and the npm listing now link to this repository, including **Report a problem**.
+- Clearer wording: files are copied between devices.
+
 ## 1.0.0-beta.11
 
 - DroidSuite now tells you when a newer version is out.
