@@ -24,7 +24,7 @@ Run it again after updating DroidSuite, or after adding an agent.
 | **Antigravity** | Confirmed to find the skill |
 | **Gemini CLI, Cursor, GitHub Copilot, Windsurf, Qwen Code, Amp** | Installed to the folders they're documented to read. Not tested yet. |
 
-Using one of these? [Tell us how it went](https://github.com/Mahmoud-Helmy-m/droidsuite/issues/new/choose).
+Using one of these? [Tell us how it went](https://github.com/Mahmoud-Helmy-m/DroidSuite/issues/new/choose).
 
 ## Try it
 

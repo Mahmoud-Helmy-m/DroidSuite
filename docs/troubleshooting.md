@@ -1,6 +1,6 @@
 # Troubleshooting
 
-Find your problem below. Still stuck? [Report it](https://github.com/Mahmoud-Helmy-m/droidsuite/issues/new?template=bug_report.yml).
+Find your problem below. Still stuck? [Report it](https://github.com/Mahmoud-Helmy-m/DroidSuite/issues/new?template=bug_report.yml).
 
 ## Connecting
 

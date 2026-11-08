@@ -17,7 +17,7 @@
   <a href="docs/getting-started.md">Get started</a> ·
   <a href="docs/README.md">Documentation</a> ·
   <a href="docs/troubleshooting.md">Troubleshooting</a> ·
-  <a href="https://github.com/Mahmoud-Helmy-m/droidsuite/issues/new/choose">Report a problem</a>
+  <a href="https://github.com/Mahmoud-Helmy-m/DroidSuite/issues/new/choose">Report a problem</a>
 </p>
 
 ---
@@ -97,12 +97,12 @@ DroidSuite is in beta. This is what it has been tested on so far:
 | **macOS** | Not tested yet. Reports are very welcome. |
 | **Phones** | A Xiaomi phone on Android 13, and the Android 13 emulator |
 
-Tried it on something else? [Tell us how it went](https://github.com/Mahmoud-Helmy-m/droidsuite/issues/new/choose), good or bad.
+Tried it on something else? [Tell us how it went](https://github.com/Mahmoud-Helmy-m/DroidSuite/issues/new/choose), good or bad.
 
 ## Get help
 
-- **Something's broken:** [report a bug](https://github.com/Mahmoud-Helmy-m/droidsuite/issues/new?template=bug_report.yml).
-- **An idea:** [suggest a feature](https://github.com/Mahmoud-Helmy-m/droidsuite/issues/new?template=feature_request.yml).
+- **Something's broken:** [report a bug](https://github.com/Mahmoud-Helmy-m/DroidSuite/issues/new?template=bug_report.yml).
+- **An idea:** [suggest a feature](https://github.com/Mahmoud-Helmy-m/DroidSuite/issues/new?template=feature_request.yml).
 - **A security problem:** please read the [security policy](SECURITY.md) first, and don't open a public issue.
 
 > [!IMPORTANT]
