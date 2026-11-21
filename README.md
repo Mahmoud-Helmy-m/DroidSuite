@@ -28,6 +28,8 @@ See and control your phone from a browser, type on it from your keyboard, copy f
   <img src="assets/screenshots/phone-screen.png" width="620" alt="The DroidSuite page showing a phone's live screen next to its controls">
 </p>
 
+<p align="center"><a href="assets/demo.mp4"><strong>▶ Watch the 1-minute demo</strong></a></p>
+
 ## What you can do
 
 | Feature | What you get |
