@@ -25,10 +25,10 @@
 See and control your phone from a browser, type on it from your keyboard, copy files both ways, and install apps, all over your own Wi-Fi. There's no account, and your files and screen don't go through any DroidSuite server.
 
 <p align="center">
-  <img src="assets/screenshots/phone-screen.png" width="620" alt="The DroidSuite page showing a phone's live screen next to its controls">
+  <a href="assets/demo.mp4"><img src="assets/demo.gif" width="600" alt="DroidSuite showing a real phone's live screen on a computer, then typing on the phone from the keyboard"></a>
 </p>
 
-<p align="center"><a href="assets/demo.mp4"><strong>▶ Watch the 1-minute demo</strong></a></p>
+<p align="center"><a href="assets/demo.mp4"><strong>▶ Watch the full 1-minute demo</strong></a> (opens the video; click <em>View raw</em> if it doesn't play)</p>
 
 ## What you can do
 
